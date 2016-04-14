@@ -13,6 +13,13 @@ contexts tend to have similar meanings. It can extract the conceptual content of
 by establishing associations between terms that occur in similar contexts.
 
 
+In this experiment, we take a subset of Wikipedia pages (music artist pages)
+save them into a mysql database and build a similarity matrix based on a
+LSI transformation of the documents.
+We can then use this index to provide "similar" artists, actually, artists
+that have a similar Wikipedia page.
+
+
 ### Run
 
 The preparing tasks can take many hours, depending on your computer capabilities.
