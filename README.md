@@ -3,7 +3,7 @@ Find similar documents using LSI and cosine similarity matrix
 =============================================================
 
 
-This program finds documents similar to the one provided as a query.
+This program uses [Gensim](https://radimrehurek.com/gensim/) to find documents similar to the one provided as a query.
 It can be used to build a recommendation system, automation
 of knowledgebase systems etc.
 
