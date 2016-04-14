@@ -31,4 +31,4 @@ The preparing tasks can take many hours, depending on your computer capabilities
  - run `lsi_similarities` to get similarities for a document
  
 At the first run, `lsi_similarities.py` creates the index and saves it to disk.  
-Next runs will load the saved index.
+Next runs will load the saved index to provide a quick answer.
